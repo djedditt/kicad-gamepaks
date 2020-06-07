@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GameBoy_GamePak_AGB-002
+D Game Boy Advance Game Pak edge connector
+K game boy advance agb ags gba game pak cartridge edge connector
+F ~
+$ENDCMP
+#
+$CMP GameBoy_GamePak_CGB-002
+D Game Boy Color Game Pak edge connector
+K game boy color cgb game pak cartridge edge connector
+F ~
+$ENDCMP
+#
+$CMP GameBoy_GamePak_DMG-09
+D Game Boy Game Pak edge connector
+K game boy classic dmg game pak cartridge edge connector
+F ~
+$ENDCMP
+#
+#End Doc Library
