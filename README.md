@@ -47,6 +47,9 @@ The following project templates are provided, and all contain a schematic and bo
 * Game Pak CGB-002
 * Game Pak DMG-09
 * Game Pak DMG-09 (short version)
+* Game Pak DMG-09 (bootleg version)
+* Game Pak DMG-09 (bootleg, short version)
+* Game Pak DMG-09 (bootleg, ultra short version)
 
 ## Gallery
 
@@ -56,6 +59,9 @@ Below you'll find 3D previews of the templates included in this repository.
 |---|---|---|
 |DMG-09| ![](http://jayvanhutten.com/kicad-gamepaks/pcb_dmg-09_front.jpg) | ![](http://jayvanhutten.com/kicad-gamepaks/pcb_dmg-09_back.jpg)|
 |DMG-09 (Short)| ![](http://jayvanhutten.com/kicad-gamepaks/pcb_dmg-09_short_front.jpg)| ![](http://jayvanhutten.com/kicad-gamepaks/pcb_dmg-09_short_back.jpg)|
+|DMG-09 (Bootleg)| ![](http://jayvanhutten.com/kicad-gamepaks/pcb_dmg-09_bootleg_front.jpg)| ![](http://jayvanhutten.com/kicad-gamepaks/pcb_dmg-09_bootleg_back.jpg)|
+|DMG-09 (Bootleg, short)| ![](http://jayvanhutten.com/kicad-gamepaks/pcb_dmg-09_bootleg_short_front.jpg)| ![](http://jayvanhutten.com/kicad-gamepaks/pcb_dmg-09_bootleg_short_back.jpg)|
+|DMG-09 (Bootleg, ultra short)| ![](http://jayvanhutten.com/kicad-gamepaks/pcb_dmg-09_bootleg_ultrashort_front.jpg)| ![](http://jayvanhutten.com/kicad-gamepaks/pcb_dmg-09_bootleg_ultrashort_back.jpg)|
 | CGB-002| ![](http://jayvanhutten.com/kicad-gamepaks/pcb_cgb-002_front.jpg) | ![](http://jayvanhutten.com/kicad-gamepaks/pcb_cgb-002_back.jpg)|
 |AGB-002| ![](http://jayvanhutten.com/kicad-gamepaks/pcb_agb-002_front.jpg) | ![](http://jayvanhutten.com/kicad-gamepaks/pcb_agb-002_back.jpg)|
 |AGB-002 (Short)| ![](http://jayvanhutten.com/kicad-gamepaks/pcb_agb-002_short_front.jpg) | ![](http://jayvanhutten.com/kicad-gamepaks/pcb_agb-002_short_back.jpg)|
